@@ -32114,10 +32114,10 @@
     {
         "Date":"2025-12-28T00:00:00.000",
         "UV_Index":1.55,
-        "Temperature_C":14.6,
-        "Humidity_%":78.0,
+        "Temperature_C":14.59,
+        "Humidity_%":57.255,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":4.3
+        "WindSpeed_m\/s":3.225
     },
     {
         "Date":"2025-12-29T00:00:00.000",
@@ -32134,5 +32134,13 @@
         "Humidity_%":79.0,
         "Rainfall_mm":0.0,
         "WindSpeed_m\/s":4.6
+    },
+    {
+        "Date":"2025-12-31T00:00:00.000",
+        "UV_Index":1.55,
+        "Temperature_C":13.2,
+        "Humidity_%":84.0,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":6.6
     }
 ]
