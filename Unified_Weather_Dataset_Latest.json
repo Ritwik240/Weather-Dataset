@@ -32182,5 +32182,13 @@
         "Humidity_%":79.0,
         "Rainfall_mm":0.0,
         "WindSpeed_m\/s":5.4
+    },
+    {
+        "Date":"2026-01-06T00:00:00.000",
+        "UV_Index":1.55,
+        "Temperature_C":12.0,
+        "Humidity_%":85.0,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":5.8
     }
 ]
