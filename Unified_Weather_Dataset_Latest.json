@@ -32162,18 +32162,18 @@
     {
         "Date":"2026-01-03T00:00:00.000",
         "UV_Index":1.55,
-        "Temperature_C":13.2,
-        "Humidity_%":77.0,
+        "Temperature_C":13.12,
+        "Humidity_%":73.53,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":3.9
+        "WindSpeed_m\/s":3.01
     },
     {
         "Date":"2026-01-04T00:00:00.000",
         "UV_Index":1.55,
-        "Temperature_C":12.4,
-        "Humidity_%":79.0,
+        "Temperature_C":12.645,
+        "Humidity_%":70.745,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":5.0
+        "WindSpeed_m\/s":3.545
     },
     {
         "Date":"2026-01-05T00:00:00.000",
@@ -32190,5 +32190,13 @@
         "Humidity_%":85.0,
         "Rainfall_mm":0.0,
         "WindSpeed_m\/s":5.8
+    },
+    {
+        "Date":"2026-01-07T00:00:00.000",
+        "UV_Index":1.55,
+        "Temperature_C":10.8,
+        "Humidity_%":89.0,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":6.2
     }
 ]
