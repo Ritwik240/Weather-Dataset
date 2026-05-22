@@ -33262,5 +33262,13 @@
         "Humidity_%":20.0,
         "Rainfall_mm":0.0,
         "WindSpeed_m\/s":9.1
+    },
+    {
+        "Date":"2026-05-21T00:00:00.000",
+        "UV_Index":0.53,
+        "Temperature_C":37.8,
+        "Humidity_%":22.0,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":13.7
     }
 ]
