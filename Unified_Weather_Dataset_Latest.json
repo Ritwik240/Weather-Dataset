@@ -32137,7 +32137,7 @@
     },
     {
         "Date":"2025-12-31T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.36,
         "Temperature_C":13.41,
         "Humidity_%":67.56,
         "Rainfall_mm":0.0,
@@ -32145,7 +32145,7 @@
     },
     {
         "Date":"2026-01-01T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.18,
         "Temperature_C":13.31,
         "Humidity_%":79.47,
         "Rainfall_mm":0.8,
@@ -32153,7 +32153,7 @@
     },
     {
         "Date":"2026-01-02T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.31,
         "Temperature_C":13.6,
         "Humidity_%":75.77,
         "Rainfall_mm":0.0,
@@ -32161,7 +32161,7 @@
     },
     {
         "Date":"2026-01-03T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.36,
         "Temperature_C":12.335,
         "Humidity_%":73.945,
         "Rainfall_mm":0.0,
@@ -32169,7 +32169,7 @@
     },
     {
         "Date":"2026-01-04T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.43,
         "Temperature_C":12.315,
         "Humidity_%":71.62,
         "Rainfall_mm":0.0,
@@ -32177,7 +32177,7 @@
     },
     {
         "Date":"2026-01-05T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.55,
         "Temperature_C":11.895,
         "Humidity_%":74.99,
         "Rainfall_mm":0.0,
@@ -32185,7 +32185,7 @@
     },
     {
         "Date":"2026-01-06T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.35,
         "Temperature_C":12.585,
         "Humidity_%":74.16,
         "Rainfall_mm":0.0,
@@ -32193,7 +32193,7 @@
     },
     {
         "Date":"2026-01-07T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.37,
         "Temperature_C":10.985,
         "Humidity_%":73.25,
         "Rainfall_mm":0.0,
@@ -32201,7 +32201,7 @@
     },
     {
         "Date":"2026-01-08T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.46,
         "Temperature_C":10.225,
         "Humidity_%":69.245,
         "Rainfall_mm":0.0,
@@ -32209,7 +32209,7 @@
     },
     {
         "Date":"2026-01-09T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.38,
         "Temperature_C":11.78,
         "Humidity_%":63.71,
         "Rainfall_mm":0.35,
@@ -32217,7 +32217,7 @@
     },
     {
         "Date":"2026-01-10T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.57,
         "Temperature_C":11.68,
         "Humidity_%":65.43,
         "Rainfall_mm":0.0,
@@ -32225,7 +32225,7 @@
     },
     {
         "Date":"2026-01-11T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.6,
         "Temperature_C":10.915,
         "Humidity_%":60.87,
         "Rainfall_mm":0.0,
@@ -32233,7 +32233,7 @@
     },
     {
         "Date":"2026-01-12T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.61,
         "Temperature_C":10.975,
         "Humidity_%":55.75,
         "Rainfall_mm":0.0,
@@ -32241,7 +32241,7 @@
     },
     {
         "Date":"2026-01-13T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.56,
         "Temperature_C":11.26,
         "Humidity_%":59.485,
         "Rainfall_mm":0.0,
@@ -32249,7 +32249,7 @@
     },
     {
         "Date":"2026-01-14T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.59,
         "Temperature_C":10.65,
         "Humidity_%":60.995,
         "Rainfall_mm":0.0,
@@ -32257,7 +32257,7 @@
     },
     {
         "Date":"2026-01-15T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.65,
         "Temperature_C":10.795,
         "Humidity_%":60.295,
         "Rainfall_mm":0.0,
@@ -32265,7 +32265,7 @@
     },
     {
         "Date":"2026-01-16T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.62,
         "Temperature_C":12.49,
         "Humidity_%":53.985,
         "Rainfall_mm":0.0,
@@ -32273,7 +32273,7 @@
     },
     {
         "Date":"2026-01-17T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.68,
         "Temperature_C":14.58,
         "Humidity_%":53.845,
         "Rainfall_mm":0.0,
@@ -32281,7 +32281,7 @@
     },
     {
         "Date":"2026-01-18T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.5,
         "Temperature_C":14.65,
         "Humidity_%":62.405,
         "Rainfall_mm":0.0,
@@ -32289,7 +32289,7 @@
     },
     {
         "Date":"2026-01-19T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.44,
         "Temperature_C":16.945,
         "Humidity_%":52.92,
         "Rainfall_mm":0.0,
@@ -32297,7 +32297,7 @@
     },
     {
         "Date":"2026-01-20T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.52,
         "Temperature_C":16.835,
         "Humidity_%":52.63,
         "Rainfall_mm":0.0,
@@ -32305,7 +32305,7 @@
     },
     {
         "Date":"2026-01-21T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.61,
         "Temperature_C":16.0,
         "Humidity_%":54.36,
         "Rainfall_mm":0.0,
@@ -32313,7 +32313,7 @@
     },
     {
         "Date":"2026-01-22T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.65,
         "Temperature_C":16.88,
         "Humidity_%":51.465,
         "Rainfall_mm":0.0,
@@ -32321,7 +32321,7 @@
     },
     {
         "Date":"2026-01-23T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.16,
         "Temperature_C":14.05,
         "Humidity_%":79.515,
         "Rainfall_mm":18.17,
@@ -32329,7 +32329,7 @@
     },
     {
         "Date":"2026-01-24T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.57,
         "Temperature_C":11.535,
         "Humidity_%":67.47,
         "Rainfall_mm":0.015,
@@ -32337,7 +32337,7 @@
     },
     {
         "Date":"2026-01-25T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.67,
         "Temperature_C":10.945,
         "Humidity_%":57.12,
         "Rainfall_mm":0.0,
@@ -32345,7 +32345,7 @@
     },
     {
         "Date":"2026-01-26T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.63,
         "Temperature_C":12.38,
         "Humidity_%":59.39,
         "Rainfall_mm":0.0,
@@ -32353,7 +32353,7 @@
     },
     {
         "Date":"2026-01-27T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.21,
         "Temperature_C":14.79,
         "Humidity_%":72.41,
         "Rainfall_mm":11.62,
@@ -32361,7 +32361,7 @@
     },
     {
         "Date":"2026-01-28T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.22,
         "Temperature_C":14.6,
         "Humidity_%":78.545,
         "Rainfall_mm":4.095,
@@ -32369,7 +32369,7 @@
     },
     {
         "Date":"2026-01-29T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.46,
         "Temperature_C":13.005,
         "Humidity_%":78.865,
         "Rainfall_mm":0.0,
@@ -32377,7 +32377,7 @@
     },
     {
         "Date":"2026-01-30T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.75,
         "Temperature_C":14.205,
         "Humidity_%":69.51,
         "Rainfall_mm":0.0,
@@ -32385,7 +32385,7 @@
     },
     {
         "Date":"2026-01-31T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.47,
         "Temperature_C":15.07,
         "Humidity_%":68.16,
         "Rainfall_mm":0.0,
@@ -32401,7 +32401,7 @@
     },
     {
         "Date":"2026-02-02T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.39,
         "Temperature_C":16.305,
         "Humidity_%":77.345,
         "Rainfall_mm":0.01,
@@ -32409,7 +32409,7 @@
     },
     {
         "Date":"2026-02-03T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.48,
         "Temperature_C":15.155,
         "Humidity_%":72.515,
         "Rainfall_mm":0.0,
@@ -32417,7 +32417,7 @@
     },
     {
         "Date":"2026-02-04T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.62,
         "Temperature_C":15.29,
         "Humidity_%":65.715,
         "Rainfall_mm":0.0,
@@ -32425,7 +32425,7 @@
     },
     {
         "Date":"2026-02-05T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.91,
         "Temperature_C":14.995,
         "Humidity_%":64.255,
         "Rainfall_mm":0.0,
@@ -32433,7 +32433,7 @@
     },
     {
         "Date":"2026-02-06T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.98,
         "Temperature_C":15.85,
         "Humidity_%":57.755,
         "Rainfall_mm":0.0,
@@ -32441,7 +32441,7 @@
     },
     {
         "Date":"2026-02-07T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.95,
         "Temperature_C":17.08,
         "Humidity_%":58.94,
         "Rainfall_mm":0.0,
@@ -32449,7 +32449,7 @@
     },
     {
         "Date":"2026-02-08T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.01,
         "Temperature_C":16.345,
         "Humidity_%":53.695,
         "Rainfall_mm":0.0,
@@ -32457,7 +32457,7 @@
     },
     {
         "Date":"2026-02-09T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.99,
         "Temperature_C":16.395,
         "Humidity_%":49.945,
         "Rainfall_mm":0.0,
@@ -32465,7 +32465,7 @@
     },
     {
         "Date":"2026-02-10T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.89,
         "Temperature_C":18.06,
         "Humidity_%":49.96,
         "Rainfall_mm":0.0,
@@ -32473,7 +32473,7 @@
     },
     {
         "Date":"2026-02-11T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.78,
         "Temperature_C":19.63,
         "Humidity_%":50.67,
         "Rainfall_mm":0.0,
@@ -32481,7 +32481,7 @@
     },
     {
         "Date":"2026-02-12T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.89,
         "Temperature_C":18.04,
         "Humidity_%":50.345,
         "Rainfall_mm":0.0,
@@ -32489,7 +32489,7 @@
     },
     {
         "Date":"2026-02-13T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.07,
         "Temperature_C":18.15,
         "Humidity_%":46.56,
         "Rainfall_mm":0.0,
@@ -32497,7 +32497,7 @@
     },
     {
         "Date":"2026-02-14T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.09,
         "Temperature_C":18.695,
         "Humidity_%":46.43,
         "Rainfall_mm":0.0,
@@ -32505,7 +32505,7 @@
     },
     {
         "Date":"2026-02-15T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.04,
         "Temperature_C":19.77,
         "Humidity_%":46.6,
         "Rainfall_mm":0.0,
@@ -32513,7 +32513,7 @@
     },
     {
         "Date":"2026-02-16T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.11,
         "Temperature_C":20.675,
         "Humidity_%":43.585,
         "Rainfall_mm":0.0,
@@ -32521,7 +32521,7 @@
     },
     {
         "Date":"2026-02-17T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.11,
         "Temperature_C":20.81,
         "Humidity_%":46.16,
         "Rainfall_mm":0.005,
@@ -32529,7 +32529,7 @@
     },
     {
         "Date":"2026-02-18T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.29,
         "Temperature_C":18.585,
         "Humidity_%":62.94,
         "Rainfall_mm":1.795,
@@ -32537,7 +32537,7 @@
     },
     {
         "Date":"2026-02-19T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.92,
         "Temperature_C":19.75,
         "Humidity_%":61.59,
         "Rainfall_mm":0.02,
@@ -32545,7 +32545,7 @@
     },
     {
         "Date":"2026-02-20T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.0,
         "Temperature_C":20.705,
         "Humidity_%":55.42,
         "Rainfall_mm":0.0,
@@ -32553,7 +32553,7 @@
     },
     {
         "Date":"2026-02-21T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.06,
         "Temperature_C":20.18,
         "Humidity_%":54.375,
         "Rainfall_mm":0.0,
@@ -32561,7 +32561,7 @@
     },
     {
         "Date":"2026-02-22T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.16,
         "Temperature_C":20.79,
         "Humidity_%":48.385,
         "Rainfall_mm":0.0,
@@ -32569,7 +32569,7 @@
     },
     {
         "Date":"2026-02-23T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.13,
         "Temperature_C":21.595,
         "Humidity_%":45.595,
         "Rainfall_mm":0.0,
@@ -32577,7 +32577,7 @@
     },
     {
         "Date":"2026-02-24T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.13,
         "Temperature_C":21.51,
         "Humidity_%":46.965,
         "Rainfall_mm":0.0,
@@ -32585,7 +32585,7 @@
     },
     {
         "Date":"2026-02-25T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.2,
         "Temperature_C":21.29,
         "Humidity_%":42.575,
         "Rainfall_mm":0.0,
@@ -32593,7 +32593,7 @@
     },
     {
         "Date":"2026-02-26T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.29,
         "Temperature_C":21.225,
         "Humidity_%":38.935,
         "Rainfall_mm":0.0,
@@ -32601,7 +32601,7 @@
     },
     {
         "Date":"2026-02-27T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.27,
         "Temperature_C":22.91,
         "Humidity_%":37.795,
         "Rainfall_mm":0.0,
@@ -32609,7 +32609,7 @@
     },
     {
         "Date":"2026-02-28T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.16,
         "Temperature_C":24.195,
         "Humidity_%":38.195,
         "Rainfall_mm":0.0,
@@ -32617,7 +32617,7 @@
     },
     {
         "Date":"2026-03-01T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.17,
         "Temperature_C":22.63,
         "Humidity_%":41.695,
         "Rainfall_mm":0.0,
@@ -32625,7 +32625,7 @@
     },
     {
         "Date":"2026-03-02T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.6,
         "Temperature_C":22.645,
         "Humidity_%":39.5,
         "Rainfall_mm":0.0,
@@ -32633,7 +32633,7 @@
     },
     {
         "Date":"2026-03-03T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.6,
         "Temperature_C":23.205,
         "Humidity_%":35.915,
         "Rainfall_mm":0.0,
@@ -32641,7 +32641,7 @@
     },
     {
         "Date":"2026-03-04T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.6,
         "Temperature_C":24.385,
         "Humidity_%":36.97,
         "Rainfall_mm":0.0,
@@ -32649,7 +32649,7 @@
     },
     {
         "Date":"2026-03-05T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.4,
         "Temperature_C":25.885,
         "Humidity_%":40.555,
         "Rainfall_mm":0.0,
@@ -32657,7 +32657,7 @@
     },
     {
         "Date":"2026-03-06T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.41,
         "Temperature_C":25.715,
         "Humidity_%":40.825,
         "Rainfall_mm":0.0,
@@ -32665,7 +32665,7 @@
     },
     {
         "Date":"2026-03-07T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.31,
         "Temperature_C":26.36,
         "Humidity_%":45.54,
         "Rainfall_mm":0.0,
@@ -32673,7 +32673,7 @@
     },
     {
         "Date":"2026-03-08T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.43,
         "Temperature_C":27.315,
         "Humidity_%":41.235,
         "Rainfall_mm":0.0,
@@ -32681,7 +32681,7 @@
     },
     {
         "Date":"2026-03-09T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.49,
         "Temperature_C":26.96,
         "Humidity_%":43.42,
         "Rainfall_mm":0.0,
@@ -32689,7 +32689,7 @@
     },
     {
         "Date":"2026-03-10T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.4,
         "Temperature_C":27.325,
         "Humidity_%":44.025,
         "Rainfall_mm":0.0,
@@ -32697,7 +32697,7 @@
     },
     {
         "Date":"2026-03-11T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.56,
         "Temperature_C":27.835,
         "Humidity_%":34.59,
         "Rainfall_mm":0.0,
@@ -32705,7 +32705,7 @@
     },
     {
         "Date":"2026-03-12T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.36,
         "Temperature_C":27.565,
         "Humidity_%":30.535,
         "Rainfall_mm":0.0,
@@ -32713,7 +32713,7 @@
     },
     {
         "Date":"2026-03-13T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.28,
         "Temperature_C":25.995,
         "Humidity_%":42.405,
         "Rainfall_mm":0.0,
@@ -32721,7 +32721,7 @@
     },
     {
         "Date":"2026-03-14T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.14,
         "Temperature_C":26.305,
         "Humidity_%":32.295,
         "Rainfall_mm":0.0,
@@ -32729,7 +32729,7 @@
     },
     {
         "Date":"2026-03-15T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.26,
         "Temperature_C":23.98,
         "Humidity_%":45.75,
         "Rainfall_mm":2.315,
@@ -32737,7 +32737,7 @@
     },
     {
         "Date":"2026-03-16T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.31,
         "Temperature_C":23.86,
         "Humidity_%":43.33,
         "Rainfall_mm":0.155,
@@ -32745,7 +32745,7 @@
     },
     {
         "Date":"2026-03-17T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.19,
         "Temperature_C":24.1,
         "Humidity_%":41.32,
         "Rainfall_mm":0.0,
@@ -32753,7 +32753,7 @@
     },
     {
         "Date":"2026-03-18T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.26,
         "Temperature_C":24.675,
         "Humidity_%":45.635,
         "Rainfall_mm":3.035,
@@ -32761,7 +32761,7 @@
     },
     {
         "Date":"2026-03-19T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.67,
         "Temperature_C":22.555,
         "Humidity_%":56.385,
         "Rainfall_mm":1.935,
@@ -32769,7 +32769,7 @@
     },
     {
         "Date":"2026-03-20T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":0.71,
         "Temperature_C":18.455,
         "Humidity_%":81.27,
         "Rainfall_mm":7.74,
@@ -32777,7 +32777,7 @@
     },
     {
         "Date":"2026-03-21T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.34,
         "Temperature_C":20.325,
         "Humidity_%":68.35,
         "Rainfall_mm":0.165,
@@ -32785,7 +32785,7 @@
     },
     {
         "Date":"2026-03-22T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.51,
         "Temperature_C":22.24,
         "Humidity_%":55.975,
         "Rainfall_mm":0.0,
@@ -32793,7 +32793,7 @@
     },
     {
         "Date":"2026-03-23T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.15,
         "Temperature_C":22.125,
         "Humidity_%":60.83,
         "Rainfall_mm":5.115,
@@ -32801,7 +32801,7 @@
     },
     {
         "Date":"2026-03-24T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.64,
         "Temperature_C":23.8,
         "Humidity_%":54.915,
         "Rainfall_mm":0.115,
@@ -32809,7 +32809,7 @@
     },
     {
         "Date":"2026-03-25T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.66,
         "Temperature_C":25.21,
         "Humidity_%":44.205,
         "Rainfall_mm":0.0,
@@ -32817,7 +32817,7 @@
     },
     {
         "Date":"2026-03-26T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.61,
         "Temperature_C":27.645,
         "Humidity_%":41.0,
         "Rainfall_mm":0.0,
@@ -32825,7 +32825,7 @@
     },
     {
         "Date":"2026-03-27T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.27,
         "Temperature_C":25.945,
         "Humidity_%":50.355,
         "Rainfall_mm":0.305,
@@ -32833,7 +32833,7 @@
     },
     {
         "Date":"2026-03-28T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.78,
         "Temperature_C":26.62,
         "Humidity_%":44.63,
         "Rainfall_mm":0.005,
@@ -32841,7 +32841,7 @@
     },
     {
         "Date":"2026-03-29T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.81,
         "Temperature_C":28.095,
         "Humidity_%":42.41,
         "Rainfall_mm":0.0,
@@ -32849,7 +32849,7 @@
     },
     {
         "Date":"2026-03-30T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":26.895,
         "Humidity_%":45.83,
         "Rainfall_mm":0.29,
@@ -32857,7 +32857,7 @@
     },
     {
         "Date":"2026-03-31T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":26.695,
         "Humidity_%":50.59,
         "Rainfall_mm":0.425,
@@ -32865,7 +32865,7 @@
     },
     {
         "Date":"2026-04-01T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":26.525,
         "Humidity_%":45.75,
         "Rainfall_mm":0.8,
@@ -32873,7 +32873,7 @@
     },
     {
         "Date":"2026-04-02T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":28.905,
         "Humidity_%":40.21,
         "Rainfall_mm":0.0,
@@ -32881,7 +32881,7 @@
     },
     {
         "Date":"2026-04-03T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":26.47,
         "Humidity_%":50.125,
         "Rainfall_mm":1.76,
@@ -32889,7 +32889,7 @@
     },
     {
         "Date":"2026-04-04T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":25.215,
         "Humidity_%":56.995,
         "Rainfall_mm":1.205,
@@ -32897,7 +32897,7 @@
     },
     {
         "Date":"2026-04-05T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":25.445,
         "Humidity_%":49.705,
         "Rainfall_mm":0.72,
@@ -32905,7 +32905,7 @@
     },
     {
         "Date":"2026-04-06T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":26.28,
         "Humidity_%":37.625,
         "Rainfall_mm":0.0,
@@ -32913,7 +32913,7 @@
     },
     {
         "Date":"2026-04-07T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":24.37,
         "Humidity_%":46.565,
         "Rainfall_mm":4.235,
@@ -32921,7 +32921,7 @@
     },
     {
         "Date":"2026-04-08T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":21.3,
         "Humidity_%":66.855,
         "Rainfall_mm":6.84,
@@ -32929,7 +32929,7 @@
     },
     {
         "Date":"2026-04-09T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":22.835,
         "Humidity_%":56.51,
         "Rainfall_mm":0.005,
@@ -32937,7 +32937,7 @@
     },
     {
         "Date":"2026-04-10T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":24.95,
         "Humidity_%":38.98,
         "Rainfall_mm":0.0,
@@ -32945,7 +32945,7 @@
     },
     {
         "Date":"2026-04-11T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":27.225,
         "Humidity_%":33.585,
         "Rainfall_mm":0.0,
@@ -32953,7 +32953,7 @@
     },
     {
         "Date":"2026-04-12T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":28.06,
         "Humidity_%":31.255,
         "Rainfall_mm":0.0,
@@ -32961,7 +32961,7 @@
     },
     {
         "Date":"2026-04-13T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":27.99,
         "Humidity_%":28.58,
         "Rainfall_mm":0.0,
@@ -32969,7 +32969,7 @@
     },
     {
         "Date":"2026-04-14T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":29.94,
         "Humidity_%":25.45,
         "Rainfall_mm":0.0,
@@ -32977,7 +32977,7 @@
     },
     {
         "Date":"2026-04-15T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":30.97,
         "Humidity_%":21.98,
         "Rainfall_mm":0.0,
@@ -32985,7 +32985,7 @@
     },
     {
         "Date":"2026-04-16T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":32.34,
         "Humidity_%":21.74,
         "Rainfall_mm":0.0,
@@ -32993,7 +32993,7 @@
     },
     {
         "Date":"2026-04-17T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":32.22,
         "Humidity_%":22.865,
         "Rainfall_mm":0.03,
@@ -33001,7 +33001,7 @@
     },
     {
         "Date":"2026-04-18T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":32.85,
         "Humidity_%":26.725,
         "Rainfall_mm":0.535,
@@ -33009,7 +33009,7 @@
     },
     {
         "Date":"2026-04-19T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":33.155,
         "Humidity_%":22.73,
         "Rainfall_mm":0.0,
@@ -33017,7 +33017,7 @@
     },
     {
         "Date":"2026-04-20T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":32.715,
         "Humidity_%":23.125,
         "Rainfall_mm":0.0,
@@ -33025,7 +33025,7 @@
     },
     {
         "Date":"2026-04-21T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":32.4,
         "Humidity_%":19.75,
         "Rainfall_mm":0.0,
@@ -33033,7 +33033,7 @@
     },
     {
         "Date":"2026-04-22T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":33.22,
         "Humidity_%":19.985,
         "Rainfall_mm":0.0,
@@ -33041,7 +33041,7 @@
     },
     {
         "Date":"2026-04-23T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":33.98,
         "Humidity_%":19.265,
         "Rainfall_mm":0.0,
@@ -33049,7 +33049,7 @@
     },
     {
         "Date":"2026-04-24T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":34.955,
         "Humidity_%":20.935,
         "Rainfall_mm":0.0,
@@ -33057,7 +33057,7 @@
     },
     {
         "Date":"2026-04-25T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":35.82,
         "Humidity_%":22.745,
         "Rainfall_mm":0.0,
@@ -33065,7 +33065,7 @@
     },
     {
         "Date":"2026-04-26T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":35.74,
         "Humidity_%":21.915,
         "Rainfall_mm":0.0,
@@ -33073,7 +33073,7 @@
     },
     {
         "Date":"2026-04-27T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":35.735,
         "Humidity_%":19.98,
         "Rainfall_mm":0.0,
@@ -33081,7 +33081,7 @@
     },
     {
         "Date":"2026-04-28T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":34.315,
         "Humidity_%":26.95,
         "Rainfall_mm":0.255,
@@ -33089,7 +33089,7 @@
     },
     {
         "Date":"2026-04-29T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":32.8,
         "Humidity_%":32.2,
         "Rainfall_mm":0.265,
@@ -33097,7 +33097,7 @@
     },
     {
         "Date":"2026-04-30T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":32.16,
         "Humidity_%":33.175,
         "Rainfall_mm":0.56,
@@ -33105,255 +33105,255 @@
     },
     {
         "Date":"2026-05-01T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":30.8,
-        "Humidity_%":43.205,
-        "Rainfall_mm":0.375,
-        "WindSpeed_m\/s":5.39
+        "UV_Index":1.25,
+        "Temperature_C":30.785,
+        "Humidity_%":41.46,
+        "Rainfall_mm":0.52,
+        "WindSpeed_m\/s":5.65
     },
     {
         "Date":"2026-05-02T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":32.37,
-        "Humidity_%":38.515,
-        "Rainfall_mm":1.64,
-        "WindSpeed_m\/s":4.93
+        "UV_Index":1.25,
+        "Temperature_C":32.445,
+        "Humidity_%":34.525,
+        "Rainfall_mm":1.15,
+        "WindSpeed_m\/s":5.3
     },
     {
         "Date":"2026-05-03T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":32.075,
-        "Humidity_%":38.975,
-        "Rainfall_mm":1.3,
-        "WindSpeed_m\/s":7.44
+        "UV_Index":1.25,
+        "Temperature_C":31.91,
+        "Humidity_%":37.035,
+        "Rainfall_mm":6.325,
+        "WindSpeed_m\/s":8.185
     },
     {
         "Date":"2026-05-04T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":28.03,
-        "Humidity_%":53.27,
-        "Rainfall_mm":4.085,
-        "WindSpeed_m\/s":7.98
+        "UV_Index":1.25,
+        "Temperature_C":26.635,
+        "Humidity_%":58.985,
+        "Rainfall_mm":6.135,
+        "WindSpeed_m\/s":8.56
     },
     {
         "Date":"2026-05-05T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":28.1,
-        "Humidity_%":53.005,
-        "Rainfall_mm":1.145,
-        "WindSpeed_m\/s":4.185
+        "UV_Index":1.25,
+        "Temperature_C":27.185,
+        "Humidity_%":55.445,
+        "Rainfall_mm":0.835,
+        "WindSpeed_m\/s":4.54
     },
     {
         "Date":"2026-05-06T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":29.635,
-        "Humidity_%":43.52,
-        "Rainfall_mm":0.34,
-        "WindSpeed_m\/s":3.23
+        "UV_Index":1.25,
+        "Temperature_C":28.905,
+        "Humidity_%":46.165,
+        "Rainfall_mm":0.695,
+        "WindSpeed_m\/s":3.765
     },
     {
         "Date":"2026-05-07T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":29.255,
-        "Humidity_%":41.945,
-        "Rainfall_mm":0.76,
-        "WindSpeed_m\/s":8.23
-    },
-    {
-        "Date":"2026-05-08T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":29.75,
-        "Humidity_%":45.275,
-        "Rainfall_mm":0.54,
-        "WindSpeed_m\/s":6.825
-    },
-    {
-        "Date":"2026-05-09T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":31.46,
-        "Humidity_%":39.725,
-        "Rainfall_mm":0.055,
-        "WindSpeed_m\/s":4.975
-    },
-    {
-        "Date":"2026-05-10T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":32.58,
-        "Humidity_%":36.965,
-        "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":5.08
-    },
-    {
-        "Date":"2026-05-11T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":33.405,
-        "Humidity_%":36.175,
-        "Rainfall_mm":0.27,
-        "WindSpeed_m\/s":4.5
-    },
-    {
-        "Date":"2026-05-12T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":33.765,
-        "Humidity_%":40.27,
-        "Rainfall_mm":4.495,
-        "WindSpeed_m\/s":6.315
-    },
-    {
-        "Date":"2026-05-13T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":33.94,
-        "Humidity_%":41.38,
-        "Rainfall_mm":1.35,
-        "WindSpeed_m\/s":4.185
-    },
-    {
-        "Date":"2026-05-14T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":34.25,
-        "Humidity_%":35.235,
-        "Rainfall_mm":0.175,
-        "WindSpeed_m\/s":4.63
-    },
-    {
-        "Date":"2026-05-15T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":34.53,
-        "Humidity_%":28.525,
-        "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":6.01
-    },
-    {
-        "Date":"2026-05-16T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":35.245,
-        "Humidity_%":26.515,
-        "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":6.105
-    },
-    {
-        "Date":"2026-05-17T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":36.545,
-        "Humidity_%":24.575,
-        "Rainfall_mm":0.05,
-        "WindSpeed_m\/s":7.9
-    },
-    {
-        "Date":"2026-05-18T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":37.355,
-        "Humidity_%":22.855,
-        "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":7.52
-    },
-    {
-        "Date":"2026-05-19T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":38.3,
-        "Humidity_%":16.735,
-        "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":7.255
-    },
-    {
-        "Date":"2026-05-20T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":38.125,
-        "Humidity_%":17.61,
-        "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":5.965
-    },
-    {
-        "Date":"2026-05-21T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":38.105,
-        "Humidity_%":19.005,
-        "Rainfall_mm":0.0,
+        "UV_Index":1.25,
+        "Temperature_C":28.41,
+        "Humidity_%":45.58,
+        "Rainfall_mm":0.57,
         "WindSpeed_m\/s":9.13
     },
     {
-        "Date":"2026-05-22T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":37.825,
-        "Humidity_%":17.495,
+        "Date":"2026-05-08T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":28.78,
+        "Humidity_%":48.735,
+        "Rainfall_mm":0.2,
+        "WindSpeed_m\/s":7.02
+    },
+    {
+        "Date":"2026-05-09T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":30.61,
+        "Humidity_%":42.585,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":7.145
+        "WindSpeed_m\/s":5.27
+    },
+    {
+        "Date":"2026-05-10T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":31.375,
+        "Humidity_%":41.34,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":5.295
+    },
+    {
+        "Date":"2026-05-11T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":32.745,
+        "Humidity_%":38.41,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":4.745
+    },
+    {
+        "Date":"2026-05-12T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":32.79,
+        "Humidity_%":41.635,
+        "Rainfall_mm":3.505,
+        "WindSpeed_m\/s":6.655
+    },
+    {
+        "Date":"2026-05-13T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":33.315,
+        "Humidity_%":42.26,
+        "Rainfall_mm":1.615,
+        "WindSpeed_m\/s":4.62
+    },
+    {
+        "Date":"2026-05-14T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":33.58,
+        "Humidity_%":37.17,
+        "Rainfall_mm":0.98,
+        "WindSpeed_m\/s":4.27
+    },
+    {
+        "Date":"2026-05-15T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":34.425,
+        "Humidity_%":29.11,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":5.98
+    },
+    {
+        "Date":"2026-05-16T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":34.61,
+        "Humidity_%":27.87,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":6.07
+    },
+    {
+        "Date":"2026-05-17T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":35.725,
+        "Humidity_%":25.805,
+        "Rainfall_mm":0.05,
+        "WindSpeed_m\/s":8.025
+    },
+    {
+        "Date":"2026-05-18T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":36.77,
+        "Humidity_%":24.255,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":7.575
+    },
+    {
+        "Date":"2026-05-19T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":37.745,
+        "Humidity_%":18.035,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":7.39
+    },
+    {
+        "Date":"2026-05-20T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":37.44,
+        "Humidity_%":18.74,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":6.475
+    },
+    {
+        "Date":"2026-05-21T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":37.36,
+        "Humidity_%":21.13,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":9.39
+    },
+    {
+        "Date":"2026-05-22T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":37.045,
+        "Humidity_%":17.23,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":7.34
     },
     {
         "Date":"2026-05-23T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":37.005,
-        "Humidity_%":21.295,
+        "UV_Index":1.25,
+        "Temperature_C":36.755,
+        "Humidity_%":20.9,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":6.855
+        "WindSpeed_m\/s":7.18
     },
     {
         "Date":"2026-05-24T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":37.43,
-        "Humidity_%":19.995,
-        "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":6.805
+        "UV_Index":1.25,
+        "Temperature_C":36.97,
+        "Humidity_%":20.28,
+        "Rainfall_mm":0.005,
+        "WindSpeed_m\/s":7.02
     },
     {
         "Date":"2026-05-25T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":38.425,
-        "Humidity_%":18.78,
-        "Rainfall_mm":0.12,
-        "WindSpeed_m\/s":8.21
+        "UV_Index":1.25,
+        "Temperature_C":37.78,
+        "Humidity_%":18.45,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":8.095
     },
     {
         "Date":"2026-05-26T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":38.09,
-        "Humidity_%":15.25,
+        "UV_Index":1.25,
+        "Temperature_C":37.54,
+        "Humidity_%":16.09,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":7.08
+        "WindSpeed_m\/s":7.295
     },
     {
         "Date":"2026-05-27T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":38.29,
-        "Humidity_%":13.965,
+        "UV_Index":1.25,
+        "Temperature_C":37.84,
+        "Humidity_%":14.48,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":6.6
+        "WindSpeed_m\/s":6.68
     },
     {
         "Date":"2026-05-28T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":36.375,
-        "Humidity_%":29.565,
-        "Rainfall_mm":2.115,
-        "WindSpeed_m\/s":5.47
+        "UV_Index":1.25,
+        "Temperature_C":35.865,
+        "Humidity_%":28.125,
+        "Rainfall_mm":1.6,
+        "WindSpeed_m\/s":5.84
     },
     {
         "Date":"2026-05-29T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":33.35,
-        "Humidity_%":42.755,
-        "Rainfall_mm":1.85,
-        "WindSpeed_m\/s":7.185
+        "UV_Index":1.25,
+        "Temperature_C":32.705,
+        "Humidity_%":43.89,
+        "Rainfall_mm":2.915,
+        "WindSpeed_m\/s":7.625
     },
     {
         "Date":"2026-05-30T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":30.945,
-        "Humidity_%":51.015,
-        "Rainfall_mm":2.795,
-        "WindSpeed_m\/s":6.335
+        "UV_Index":1.25,
+        "Temperature_C":30.76,
+        "Humidity_%":50.665,
+        "Rainfall_mm":2.565,
+        "WindSpeed_m\/s":6.47
     },
     {
         "Date":"2026-05-31T00:00:00.000",
-        "UV_Index":0.53,
-        "Temperature_C":29.95,
-        "Humidity_%":53.05,
-        "Rainfall_mm":2.1,
-        "WindSpeed_m\/s":4.87
+        "UV_Index":1.25,
+        "Temperature_C":29.29,
+        "Humidity_%":54.15,
+        "Rainfall_mm":3.265,
+        "WindSpeed_m\/s":5.18
     },
     {
         "Date":"2026-06-01T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":30.29,
         "Humidity_%":52.94,
         "Rainfall_mm":0.985,
@@ -33361,7 +33361,7 @@
     },
     {
         "Date":"2026-06-02T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":31.905,
         "Humidity_%":47.375,
         "Rainfall_mm":0.8,
@@ -33369,7 +33369,7 @@
     },
     {
         "Date":"2026-06-03T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":34.49,
         "Humidity_%":38.71,
         "Rainfall_mm":0.55,
@@ -33377,7 +33377,7 @@
     },
     {
         "Date":"2026-06-04T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":34.88,
         "Humidity_%":36.56,
         "Rainfall_mm":0.72,
@@ -33385,7 +33385,7 @@
     },
     {
         "Date":"2026-06-05T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":32.55,
         "Humidity_%":47.295,
         "Rainfall_mm":1.775,
@@ -33393,7 +33393,7 @@
     },
     {
         "Date":"2026-06-06T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":35.055,
         "Humidity_%":37.88,
         "Rainfall_mm":0.0,
@@ -33401,7 +33401,7 @@
     },
     {
         "Date":"2026-06-07T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":35.27,
         "Humidity_%":36.22,
         "Rainfall_mm":0.2,
@@ -33409,7 +33409,7 @@
     },
     {
         "Date":"2026-06-08T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":37.34,
         "Humidity_%":28.065,
         "Rainfall_mm":0.0,
@@ -33417,7 +33417,7 @@
     },
     {
         "Date":"2026-06-09T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":38.22,
         "Humidity_%":23.64,
         "Rainfall_mm":0.02,
@@ -33425,7 +33425,7 @@
     },
     {
         "Date":"2026-06-10T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":38.645,
         "Humidity_%":25.83,
         "Rainfall_mm":0.645,
@@ -33433,7 +33433,7 @@
     },
     {
         "Date":"2026-06-11T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":36.43,
         "Humidity_%":39.315,
         "Rainfall_mm":1.85,
@@ -33441,7 +33441,7 @@
     },
     {
         "Date":"2026-06-12T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":30.825,
         "Humidity_%":58.295,
         "Rainfall_mm":5.235,
@@ -33449,7 +33449,7 @@
     },
     {
         "Date":"2026-06-13T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":31.335,
         "Humidity_%":53.9,
         "Rainfall_mm":0.545,
@@ -33457,7 +33457,7 @@
     },
     {
         "Date":"2026-06-14T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":33.28,
         "Humidity_%":46.625,
         "Rainfall_mm":0.34,
@@ -33465,7 +33465,7 @@
     },
     {
         "Date":"2026-06-15T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":33.05,
         "Humidity_%":44.83,
         "Rainfall_mm":0.91,
@@ -33473,7 +33473,7 @@
     },
     {
         "Date":"2026-06-16T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":31.88,
         "Humidity_%":49.89,
         "Rainfall_mm":0.885,
@@ -33481,7 +33481,7 @@
     },
     {
         "Date":"2026-06-17T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":31.4,
         "Humidity_%":53.0,
         "Rainfall_mm":0.0,
@@ -33489,10 +33489,18 @@
     },
     {
         "Date":"2026-06-18T00:00:00.000",
-        "UV_Index":0.53,
+        "UV_Index":1.25,
         "Temperature_C":34.6,
         "Humidity_%":42.0,
         "Rainfall_mm":0.1,
         "WindSpeed_m\/s":8.2
+    },
+    {
+        "Date":"2026-06-19T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":33.9,
+        "Humidity_%":41.0,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":9.2
     }
 ]
