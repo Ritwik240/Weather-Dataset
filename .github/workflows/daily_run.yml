@@ -2,8 +2,11 @@ name: Weather AI & Blockchain Pipeline
 
 on:
   schedule:
-    - cron: '30 18 * * *' # 12:00 AM IST
+    - cron: '30 18 * * *' # 12:00 AM IST (18:30 UTC)
   workflow_dispatch:
+  push:
+    branches:
+      - branch1
 
 jobs:
   build-and-run:
@@ -35,9 +38,11 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # Add core files
+
         git add Unified_Weather_Dataset_Latest.json weather_ledger_pos.json forecast_7days_with_alerts.json scaler_*.joblib weather_model_cnn_lstm.h5 || echo "Files missing"
-        # Add image only if created to prevent fatal error
+
         if [ -f forecast_verification.png ]; then git add forecast_verification.png; fi
+
         git commit -m "Daily Update (IST): AI Forecast & Ledger" || echo "No changes"
-        git push
+
+        git push origin HEAD
